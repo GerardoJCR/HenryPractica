@@ -1,2 +1,2 @@
 # HenryPractica
-  Editando el modulo 2 
+    Repasando  el curso pildoras Informaticas
